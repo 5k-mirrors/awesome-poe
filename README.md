@@ -27,6 +27,8 @@
 
 - [poe.ninja](https://poe.ninja/) - Economic and build overview.
 - [Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade) - In-game price checking using official trade data.
+- [Craft of Exile](https://www.craftofexile.com/) - Mods and best crafting methods.
+- [PoEDB](https://poedb.tw/us/) - Database of game data extracted from the client.
 - [PoE Live Search Manager](https://github.com/5k-mirrors/poe-live-search-manager) - Desktop tool for managing live item searches and making instant offers without leaving the game.
 - [PoE What To Flip](https://github.com/5k-mirrors/poe-what-to-flip) - Compares prices to find the most profitable deals (Divination Cards, Breachstones, Prophecies, Scarabs, anything).
 - [PoE Dashboard](https://github.com/5k-mirrors/poe-dashboard) - Customizable economy dashboard.
