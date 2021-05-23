@@ -20,7 +20,7 @@
 - [How to sustain maps](https://www.reddit.com/r/pathofexile/comments/9hosp1/ingame_tools_that_help_you_run_high_tier_maps/) - Prerequisites of sustainable progress.
 - [Delve guide to fractured walls](https://www.pathofexile.com/forum/view-thread/2204851) - Finding and interacting with walls in Delve.
 - [Zone layout cheatsheet](https://docs.google.com/document/d/1sExA-AnTbroJ-HN2neZiij5G4X9u2ENlC7m_zf1tqP8) - Collection of zone layouts Act 1-10.
-- [Strongbox guide](https://www.youtube.com/watch?v=33CbAPWjOUY) - ZiggyD's guide on Strongboxes.
+- [Strongbox guide](https://www.youtube.com/watch?v=33CbAPWjOUY) - Guide on Strongboxes.
 - [Unit distance / radius](https://imgur.com/a/tBhn2) - Visualized examples of radius units.
 
 ## Tools
