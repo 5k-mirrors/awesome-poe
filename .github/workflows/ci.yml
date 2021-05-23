@@ -17,19 +17,3 @@ jobs:
         node-version: ${{ env.node_version }}
     - name: Lint
       run: npx awesome-lint
-
-  check-toc:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-    - uses: actions/checkout@v1
-    - name: Setup Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: ${{ env.node_version }}
-    - name: Generate table of contents
-      run: npx doctoc README.md
-    - name: Show changes
-      run: git status -s
-    - name: Check changes
-      run: git status -s | grep . && exit 1
