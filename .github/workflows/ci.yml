@@ -27,7 +27,7 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ env.node_version }}
-    - name: Lint
+    - name: Generate table of contents
       run: npx doctoc README.md
-    - name: Lint
-      run: git status -s && exit 1
+    - name: Check changes
+      run: git status -s | grep . && exit 1
