@@ -30,6 +30,9 @@
 - [PoE Live Search Manager](https://github.com/5k-mirrors/poe-live-search-manager) - Desktop tool for managing live item searches and making instant offers without leaving the game.
 - [PoE What To Flip](https://github.com/5k-mirrors/poe-what-to-flip) - Compares prices to find the most profitable deals (Divination Cards, Breachstones, Prophecies, Scarabs, anything).
 - [PoE Dashboard](https://github.com/5k-mirrors/poe-dashboard) - Customizable economy dashboard.
+- [PoE Chaos Recipe Enhancer](https://github.com/kosace/EnhancePoEApp) - Show chaos recipe items and update lootfilter.
+- [PoE Overlay](https://github.com/Kyusung4698/PoE-Overlay) - In-game price checking and map insights.
+- [POE-Trades-Companion](https://github.com/lemasato/POE-Trades-Companion) - Overlay to keep track of incoming trades.
 - [PoE TradeMacro](https://github.com/PoE-TradeMacro/POE-TradeMacro) - In-game price checking using poe.trade data.
 - [MercuryTrade](https://github.com/Exslims/MercuryTrade) - Overlay application for trading.
 - [Acquisition](https://github.com/xyzz/acquisition) - Inventory management tool.
