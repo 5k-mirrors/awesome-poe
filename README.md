@@ -22,6 +22,7 @@
 - [Zone layout cheatsheet](https://docs.google.com/document/d/1sExA-AnTbroJ-HN2neZiij5G4X9u2ENlC7m_zf1tqP8) - Collection of zone layouts Act 1-10.
 - [Strongbox guide](https://www.youtube.com/watch?v=33CbAPWjOUY) - Guide on Strongboxes.
 - [Unit distance / radius](https://imgur.com/a/tBhn2) - Visualized examples of radius units.
+- [Lepfrog Atlast strategy](https://www.reddit.com/r/pathofexile/comments/hbmims/guide_stepbystep_visual_guide_on_atlas/) - Step-by-Step visual guide on Atlas progression and Watchstone acquisition.
 
 ## Tools
 
