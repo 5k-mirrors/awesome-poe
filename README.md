@@ -35,7 +35,7 @@
 - [PoE Dashboard](https://github.com/5k-mirrors/poe-dashboard) - Customizable economy dashboard.
 - [PoE Chaos Recipe Enhancer](https://github.com/kosace/EnhancePoEApp) - Show chaos recipe items and update lootfilter.
 - [PoE Overlay](https://github.com/Kyusung4698/PoE-Overlay) - In-game price checking and map insights.
-- [POE-Trades-Companion](https://github.com/lemasato/POE-Trades-Companion) - Overlay to keep track of incoming trades.
+- [PoE-Trades-Companion](https://github.com/lemasato/POE-Trades-Companion) - Overlay to keep track of incoming trades.
 - [PoE TradeMacro](https://github.com/PoE-TradeMacro/POE-TradeMacro) - In-game price checking using poe.trade data.
 - [MercuryTrade](https://github.com/Exslims/MercuryTrade) - Overlay application for trading.
 - [Acquisition](https://github.com/xyzz/acquisition) - Inventory management tool.
