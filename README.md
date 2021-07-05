@@ -10,6 +10,7 @@
 
 - [Guides](#guides)
 - [Tools](#tools)
+- [Items](#items)
 - [Filters](#filters)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
