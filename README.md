@@ -34,6 +34,9 @@
 - [PoE What To Flip](https://github.com/5k-mirrors/poe-what-to-flip) - Compares prices to find the most profitable deals (Divination Cards, Breachstones, Prophecies, Scarabs, anything).
 - [PoE Dashboard](https://github.com/5k-mirrors/poe-dashboard) - Customizable economy dashboard.
 - [PoE Chaos Recipe Enhancer](https://github.com/kosace/EnhancePoEApp) - Show chaos recipe items and update lootfilter.
+- [PoE Profit](https://poeprofit.com/) - Money making strategies by profitability.
+- [exile-diary](https://github.com/briansd9/exile-diary/) - Drop tracking.
+- [PoE Antiquary](https://poe-antiquary.xyz/) - Historic price data.
 - [PoE Overlay](https://github.com/Kyusung4698/PoE-Overlay) - In-game price checking and map insights.
 - [PoE-Trades-Companion](https://github.com/lemasato/POE-Trades-Companion) - Overlay to keep track of incoming trades.
 - [PoE TradeMacro](https://github.com/PoE-TradeMacro/POE-TradeMacro) - In-game price checking using poe.trade data.
