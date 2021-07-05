@@ -55,6 +55,11 @@
 - [Unique rarity tires](https://www.reddit.com/r/pathofexile/comments/957bex/constructing_a_unique_rarity_tier_list_using/) - Tiered list of uniques based on perandus coin prices.
 - [PoE-Leveling-Guide](https://github.com/JusKillmeQik/LevelingGuide) - Display zone layouts, quests, gems and notes during leveling.
 
+## Collecting
+
+- [Unique Tab Ladder](https://ladder.cld.moe/) - Showing a toplist of owners of the most unique and special items.
+- [Delve Relic Checklist](https://5k-mirrors.github.io/delve-relic-checklist/) - Checklist / tracker for Relics in Delve league.
+
 ## Filters
 
 - [NeverSink](https://github.com/NeverSinkDev/NeverSink-Filter) - Item filters with different strictness.
