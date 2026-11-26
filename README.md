@@ -48,6 +48,7 @@
 - [Path of Building](https://github.com/Openarl/PathOfBuilding) - Offline build planner.
 - [Path of Building Community Edition](https://github.com/PathOfBuildingCommunity/PathOfBuilding) - Community-maintained version of Path of Building including extra features.
 - [PoB.party](https://pob.party/) - Path of Building in the browser.
+- [WebPoB](https://webpob.pages.dev/) - Open-source Path of Building viewer and planner in the browser with pobb.in and poe.ninja import and passive tree diffing.
 - [PoE Simulator](https://www.reddit.com/r/pathofexile/comments/8i6vz6/i_made_poe_simulator_a_browser_based_simulacrum/) - In-browser Uber Elder fight simulator.
 - [Mapwatch](https://mapwatch.erosson.org/) - Mapping statistics based on Client.txt.
 - [poe.watch](https://poe.watch/) - Economy overview.
